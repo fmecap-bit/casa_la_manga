@@ -1,0 +1,386 @@
+{
+  "currentYear": 2026,
+  "currentTab": "may",
+  "nombres": {
+    "yo": "Familia Meca Guerrero",
+    "her": "Familia Bernal Meca"
+  },
+  "fijosCfg": [
+    {
+      "id": 1,
+      "nombre": "INTERNET",
+      "importe": 25,
+      "payer": "ambos"
+    },
+    {
+      "id": 2,
+      "nombre": "LUZ",
+      "importe": 50,
+      "payer": "ambos"
+    }
+  ],
+  "years": {
+    "2025": {
+      "ene": {
+        "cerrado": false,
+        "gastos": [],
+        "ingresos": [],
+        "prev": []
+      }
+    },
+    "2026": {
+      "abr": {
+        "cerrado": false,
+        "gastos": [
+          {
+            "id": 2,
+            "nombre": "LUZ",
+            "importe": 41.67,
+            "tipo": "fijo",
+            "payer": "ambos"
+          },
+          {
+            "id": 1,
+            "nombre": "INTERNET",
+            "importe": 1.66,
+            "tipo": "fijo",
+            "payer": "ambos"
+          },
+          {
+            "id": 3,
+            "nombre": "SOFA",
+            "importe": 36.43,
+            "tipo": "manual",
+            "payer": "ambos"
+          }
+        ],
+        "ingresos": [],
+        "prev": []
+      },
+      "ene": {
+        "cerrado": true,
+        "gastos": [
+          {
+            "id": 2,
+            "nombre": "LUZ",
+            "importe": 56.28,
+            "tipo": "fijo",
+            "payer": "ambos"
+          },
+          {
+            "id": 1,
+            "nombre": "INTERNET",
+            "importe": 16.13,
+            "tipo": "fijo",
+            "payer": "ambos"
+          },
+          {
+            "id": 3,
+            "nombre": "SOFA",
+            "importe": 36.43,
+            "tipo": "manual",
+            "payer": "ambos"
+          }
+        ],
+        "ingresos": [],
+        "prev": [],
+        "pagado": {
+          "yo": true,
+          "her": true
+        }
+      },
+      "may": {
+        "cerrado": false,
+        "gastos": [
+          {
+            "id": 1,
+            "nombre": "INTERNET",
+            "importe": 25,
+            "tipo": "fijo",
+            "payer": "ambos"
+          },
+          {
+            "id": 2,
+            "nombre": "LUZ",
+            "importe": 50,
+            "tipo": "fijo",
+            "payer": "ambos"
+          }
+        ],
+        "ingresos": [],
+        "prev": []
+      },
+      "jun": {
+        "cerrado": false,
+        "gastos": [
+          {
+            "id": 1,
+            "nombre": "INTERNET",
+            "importe": 25,
+            "tipo": "fijo",
+            "payer": "ambos"
+          },
+          {
+            "id": 2,
+            "nombre": "LUZ",
+            "importe": 50,
+            "tipo": "fijo",
+            "payer": "ambos"
+          }
+        ],
+        "ingresos": [],
+        "prev": []
+      },
+      "feb": {
+        "cerrado": false,
+        "gastos": [
+          {
+            "id": 1,
+            "nombre": "INTERNET",
+            "importe": 0,
+            "tipo": "fijo",
+            "payer": "ambos"
+          },
+          {
+            "id": 2,
+            "nombre": "LUZ",
+            "importe": 51.78,
+            "tipo": "fijo",
+            "payer": "ambos"
+          },
+          {
+            "id": 3,
+            "nombre": "SOFA",
+            "importe": 36.43,
+            "tipo": "manual",
+            "payer": "ambos"
+          }
+        ],
+        "ingresos": [],
+        "prev": []
+      },
+      "mar": {
+        "cerrado": false,
+        "gastos": [
+          {
+            "id": 1,
+            "nombre": "INTERNET",
+            "importe": 0,
+            "tipo": "fijo",
+            "payer": "ambos"
+          },
+          {
+            "id": 2,
+            "nombre": "LUZ",
+            "importe": 47.76,
+            "tipo": "fijo",
+            "payer": "ambos"
+          },
+          {
+            "id": 3,
+            "nombre": "SOFA",
+            "importe": 36.43,
+            "tipo": "manual",
+            "payer": "ambos"
+          }
+        ],
+        "ingresos": [],
+        "prev": []
+      },
+      "jul": {
+        "cerrado": false,
+        "gastos": [
+          {
+            "id": 1,
+            "nombre": "INTERNET",
+            "importe": 25,
+            "tipo": "fijo",
+            "payer": "ambos"
+          },
+          {
+            "id": 2,
+            "nombre": "LUZ",
+            "importe": 50,
+            "tipo": "fijo",
+            "payer": "ambos"
+          }
+        ],
+        "ingresos": [],
+        "prev": []
+      }
+    }
+  },
+  "viviendas": [
+    {
+      "id": 1,
+      "nombre": "Casa La Manga"
+    }
+  ],
+  "viviendaActiva": 1,
+  "vdata": {
+    "1": {
+      "2026": {
+        "abr": {
+          "cerrado": false,
+          "gastos": [
+            {
+              "id": 1,
+              "nombre": "INTERNET",
+              "importe": 1.16,
+              "tipo": "fijo",
+              "payer": "ambos"
+            },
+            {
+              "id": 2,
+              "nombre": "LUZ",
+              "importe": 41.67,
+              "tipo": "fijo",
+              "payer": "ambos"
+            },
+            {
+              "id": 3,
+              "nombre": "SOFA",
+              "importe": 36.43,
+              "tipo": "manual",
+              "payer": "ambos"
+            }
+          ],
+          "ingresos": [
+            {
+              "id": 2,
+              "nombre": "Alquiler 2",
+              "importe": 144.5
+            },
+            {
+              "id": 3,
+              "nombre": "Alquiler 1",
+              "importe": 137.28
+            }
+          ],
+          "prev": []
+        },
+        "mar": {
+          "cerrado": false,
+          "gastos": [
+            {
+              "id": 1,
+              "nombre": "INTERNET",
+              "importe": 0,
+              "tipo": "fijo",
+              "payer": "ambos"
+            },
+            {
+              "id": 2,
+              "nombre": "LUZ",
+              "importe": 47.76,
+              "tipo": "fijo",
+              "payer": "ambos"
+            },
+            {
+              "id": 3,
+              "nombre": "SOFA",
+              "importe": 36.43,
+              "tipo": "manual",
+              "payer": "ambos"
+            }
+          ],
+          "ingresos": [],
+          "prev": [],
+          "pagado": {
+            "yo": true
+          }
+        },
+        "feb": {
+          "cerrado": false,
+          "gastos": [
+            {
+              "id": 1,
+              "nombre": "INTERNET",
+              "importe": 0,
+              "tipo": "fijo",
+              "payer": "ambos"
+            },
+            {
+              "id": 2,
+              "nombre": "LUZ",
+              "importe": 51.78,
+              "tipo": "fijo",
+              "payer": "ambos"
+            },
+            {
+              "id": 3,
+              "nombre": "SOFA",
+              "importe": 36.43,
+              "tipo": "manual",
+              "payer": "ambos"
+            }
+          ],
+          "ingresos": [],
+          "prev": [],
+          "pagado": {
+            "yo": true
+          }
+        },
+        "ene": {
+          "cerrado": true,
+          "gastos": [
+            {
+              "id": 1,
+              "nombre": "INTERNET",
+              "importe": 25,
+              "tipo": "fijo",
+              "payer": "ambos"
+            },
+            {
+              "id": 2,
+              "nombre": "LUZ",
+              "importe": 50,
+              "tipo": "fijo",
+              "payer": "ambos"
+            }
+          ],
+          "ingresos": [
+            {
+              "id": 1,
+              "nombre": "Fondo cuenta",
+              "importe": 60.04
+            }
+          ],
+          "prev": [],
+          "pagado": {
+            "yo": true,
+            "her": true
+          }
+        },
+        "may": {
+          "cerrado": false,
+          "gastos": [
+            {
+              "id": 1,
+              "nombre": "INTERNET",
+              "importe": 25,
+              "tipo": "fijo",
+              "payer": "ambos"
+            },
+            {
+              "id": 2,
+              "nombre": "LUZ",
+              "importe": 52.4,
+              "tipo": "fijo",
+              "payer": "ambos"
+            },
+            {
+              "id": 3,
+              "nombre": "Sofá",
+              "importe": 36,
+              "tipo": "manual",
+              "payer": "ambos"
+            }
+          ],
+          "ingresos": [],
+          "prev": []
+        }
+      }
+    }
+  }
+}
